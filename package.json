@@ -36,9 +36,6 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/html-next/vertical-collection.git",
-  "homepage": "https://github.com/html-next/vertical-collection",
-  "bugs": "https://github.com/html-next/vertical-collection/issues",
   "scripts": {
     "build": "ember build",
     "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:*",
